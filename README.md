@@ -1,7 +1,7 @@
 # aposentaveis
 
-Análise georreferenciada de dados públicos para a identificação das lotações de membros do MPSP que podem se aposentar.
+Análise georreferenciada de dados públicos para a identificação das lotações de membros do MPSP que já podem se aposentar.
 
-Limpeza e preparação dos dados com *difflib* e *unicodedata*.
+Limpeza e preparação dos dados com **difflib** e **unicodedata**.
 
-Plotagem do mapa com *folium*. Clique aqui: <https://github.com/jespimentel/aposentaveis/blob/main/aposentaveis_nov2024.html>
+Plotagem do mapa com **folium**. <[Clique aqui:](https://jespimentel.github.io/aposentaveis/)>
